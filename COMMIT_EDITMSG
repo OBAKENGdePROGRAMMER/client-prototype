@@ -1,0 +1,10 @@
+Add routing and theme provider for new dashboard pages
+
+Implement navigation routes for mentor, mentee, admin, and donor dashboards. Integrate a theme provider for consistent UI styling across the application.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: e3c8c92c-afd5-4ee4-b150-bffbdfdcf90b
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: a752d198-617c-47a4-898e-583b1f708052
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/f3c62272-a8ac-4047-a801-09bb5ab834e3/e3c8c92c-afd5-4ee4-b150-bffbdfdcf90b/0zwYhTW
+Replit-Helium-Checkpoint-Created: true
